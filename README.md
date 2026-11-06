@@ -11,4 +11,3 @@ GitHub Repository for the CHEM501 project.
 4. Fourth item
 
 Regular text
-More text added.
