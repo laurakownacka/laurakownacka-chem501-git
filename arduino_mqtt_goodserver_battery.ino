@@ -18,7 +18,7 @@ const char topic1[] = "lktopic1";
 const char topic2[] = "lktopic2";
 
 //set interval for sending messages (milliseconds)
-const long interval = 2500;
+const long interval = 1000;
 unsigned long previousMillis = 0;
 
 int count = 0;
